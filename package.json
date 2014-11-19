@@ -1,6 +1,6 @@
 {
-  "name": "bigbox-ejs-serverside",
-  "version": "0.0.1",
+  "name": "bigbox-ejs",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
 	  "htmlparser": "*",
@@ -9,6 +9,6 @@
   "description": "bigbox在server端的ejs模板处理程序",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigboxjs/bigbox-ejs-serverside"
+    "url": "https://github.com/bigboxjs/bigbox-ejs"
   }
 }
